@@ -1,3 +1,13 @@
+# Commands
+
+what is a command?
+
+options, parameters, ...
+
+man
+
+--help, -h
+
 # Essential commands
 
 ## networking, connecting
