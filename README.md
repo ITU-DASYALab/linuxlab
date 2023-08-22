@@ -15,3 +15,5 @@ https://www.hostinger.com/tutorials/linux-commands
 https://overthewire.org/wargames/bandit/	
 
 https://nsrc.org/workshops/2021/mnnog3/cloud-virt/en/welcome-intro/linux-minimal.pdf
+
+https://archive.flossmanuals.net/command-line/index.html
