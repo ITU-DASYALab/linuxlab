@@ -83,6 +83,10 @@ conda
 
 venv
 
+## graphics
+
+graphviz, neato, dot, afterglow, ...
+
 
 ## magic keys & tricks
 
