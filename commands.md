@@ -48,6 +48,8 @@ find
 
 locate
 
+touch
+
 ## users, groups, perms
 
 understanding perms
