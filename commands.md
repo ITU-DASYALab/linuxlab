@@ -24,6 +24,8 @@ mtr
 
 ip
 
+tmux
+
 ## files, directories, links
 
 cd
@@ -100,3 +102,19 @@ history, !, CTRL-R
 
 
 ## bash scripting
+
+## anatomy of linux
+
+file system
+
+/etc
+
+/home
+
+PATH
+
+## alternative shells
+
+
+
+
