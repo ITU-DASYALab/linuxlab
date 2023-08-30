@@ -2,16 +2,25 @@
 
   * why interested? in what?
 
-
 ## cli - how did i get here?
 
   * i have my own linux machine ... GUI, terminal, ..
   * connecting .... ssh, shell
 
-## finding my way around
+  * ...
 
-ls, pwd, who,
+    
+based on that, options:
 
-networking ... ping ... wget, curl, ...
+## installing - SEB
 
-scp
+check laptops, have usb sticks 
+
+## anatomy of a command - JULIAN
+	
+ ls as an example
+	
+## access - LOTTIE
+	
+ ssh, making an account, keys
+
