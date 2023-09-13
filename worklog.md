@@ -38,6 +38,10 @@ apropos
 tree
 touch
 vim
+echo
+head
+tail
+watch
 
 magic keys:
 
