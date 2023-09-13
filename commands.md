@@ -26,6 +26,10 @@ ip
 
 tmux
 
+wget
+
+curl
+
 ## files, directories, links
 
 cd
@@ -39,6 +43,8 @@ mv
 rm
 
 mkdir
+
+pwd
 
 tree
 
@@ -60,6 +66,12 @@ chown
 
 chmod
 
+who / w
+
+last
+
+passwd
+
 
 ## text & editing
 
@@ -69,6 +81,8 @@ nano
 
 less
 
+more
+
 cat
 
 grep
@@ -76,6 +90,10 @@ grep
 sed
 
 awk
+
+head
+
+tail
 
 
 
@@ -96,9 +114,15 @@ graphviz, neato, dot, afterglow, ...
 
 tab - autocompletion
 
-arrows
+arrows: > >>
 
 history, !, CTRL-R
+
+apropos
+
+pipe |
+
+watch
 
 
 ## bash scripting
@@ -112,6 +136,15 @@ file system
 /home
 
 PATH
+
+### system and performance
+
+top
+
+htop
+
+ps
+
 
 ## alternative shells
 
