@@ -23,4 +23,3 @@ check laptops, have usb sticks
 ## access - LOTTIE
 	
  ssh, making an account, keys
-
