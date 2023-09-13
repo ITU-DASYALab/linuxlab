@@ -42,6 +42,8 @@ echo
 head
 tail
 watch
+wall
+write
 
 magic keys:
 
