@@ -13,3 +13,38 @@
 ## Day 02 - 20230913
 
   * Plan: finding your way on a server ... walk around, manage files, introduce commands that are useful
+
+log on via ssh
+
+we used/introduced the following commands and techniques:
+
+```
+
+cd
+mv
+mkdir
+pwd
+who
+w
+top
+htop
+passwd	
+history
+cat
+less
+grep 
+chmod
+apropos
+tree
+touch
+vim
+
+magic keys:
+
+|
+>
+>>
+<TAB>
+
+
+```
