@@ -53,3 +53,8 @@ magic keys:
 <TAB>
 
 ```
+
+## Day 03 - 20230920
+
+  * Linux on/and the HPC Cluster at ITU ... how to get started, how to navigate, etc ...
+##
