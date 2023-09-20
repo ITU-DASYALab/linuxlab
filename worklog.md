@@ -57,5 +57,27 @@ magic keys:
 ## Day 03 - 20230920
 
   * Linux on/and the HPC Cluster at ITU ... how to get started, how to navigate, etc ...
-##
 
+
+```
+
+Linux lab went well today..
+
+Hpc access
+Scheduling jobs and job scripts
+Hpc architecture
+Commands options and arguments
+Scp
+Sftp
+Rsync
+Foreground and background 
+More vi
+Tree
+Man pages
+ln -s
+man pages
+Text search in less
+Ctrl a e k 
+Etc .. pause next week
+
+``
