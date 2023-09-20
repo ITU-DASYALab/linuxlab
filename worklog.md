@@ -61,7 +61,7 @@ magic keys:
 
 ```
 
-Linux lab went well today..
+and i quote: Linux lab went well today..
 
 Hpc access
 Scheduling jobs and job scripts
